@@ -74,6 +74,7 @@ table{
   min-width: 125px;
   padding: 10px;
   vertical-align: bottom;
+  text-align: middle;
   text-transform: uppercase;
 }
 
