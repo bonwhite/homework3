@@ -89,6 +89,10 @@ td{
 
 }
 
+tbody tr:hover {
+  background-color: rgba(126,8,48,.25);
+}
+
 tr:nth-child(even){
   background-color: #d1d1d1; 
 
@@ -98,9 +102,7 @@ tr:nth-child(odd){
   background-color:
 }
 
-tbody tr:hover {
-  background-color: rgba(126,8,48,.25);
-}
+
 
 *:focus{
   border: #417243 dashed 3px;
