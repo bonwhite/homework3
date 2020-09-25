@@ -16,6 +16,8 @@ body{
   background-image: url("../images/pigeon-background.JPEG");
   background-size: cover ;
   background-position: center;
+  background-color: #dddddd;
+  background-repeat: no-repeat;
 
 }
 
@@ -66,11 +68,13 @@ table{
   }   
 
 .colhead{
-  background-color: #7e0830;
+  
   color: #FFFFFF;
+  background-color: #7e0820;
   min-width: 125px;
   padding: 10px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .rowhead{
