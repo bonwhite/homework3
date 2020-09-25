@@ -73,8 +73,8 @@ table{
   background-color: #7e0820;
   min-width: 125px;
   padding: 10px;
-  vertical-align: bottom;
-  text-align: middle;
+  vertical-align: middle;
+  text-align: center;
   text-transform: uppercase;
 }
 
